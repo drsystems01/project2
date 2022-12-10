@@ -1,0 +1,15 @@
+C:\Users\Public\project2\GAMETEST\bin\Debug\net7.0\GAMETEST.exe
+C:\Users\Public\project2\GAMETEST\bin\Debug\net7.0\GAMETEST.deps.json
+C:\Users\Public\project2\GAMETEST\bin\Debug\net7.0\GAMETEST.runtimeconfig.json
+C:\Users\Public\project2\GAMETEST\bin\Debug\net7.0\GAMETEST.dll
+C:\Users\Public\project2\GAMETEST\bin\Debug\net7.0\GAMETEST.pdb
+C:\Users\Public\project2\GAMETEST\obj\Debug\net7.0\GAMETEST.csproj.AssemblyReference.cache
+C:\Users\Public\project2\GAMETEST\obj\Debug\net7.0\GAMETEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\project2\GAMETEST\obj\Debug\net7.0\GAMETEST.AssemblyInfoInputs.cache
+C:\Users\Public\project2\GAMETEST\obj\Debug\net7.0\GAMETEST.AssemblyInfo.cs
+C:\Users\Public\project2\GAMETEST\obj\Debug\net7.0\GAMETEST.csproj.CoreCompileInputs.cache
+C:\Users\Public\project2\GAMETEST\obj\Debug\net7.0\GAMETEST.dll
+C:\Users\Public\project2\GAMETEST\obj\Debug\net7.0\refint\GAMETEST.dll
+C:\Users\Public\project2\GAMETEST\obj\Debug\net7.0\GAMETEST.pdb
+C:\Users\Public\project2\GAMETEST\obj\Debug\net7.0\GAMETEST.genruntimeconfig.cache
+C:\Users\Public\project2\GAMETEST\obj\Debug\net7.0\ref\GAMETEST.dll
