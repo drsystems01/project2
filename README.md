@@ -1,0 +1,2 @@
+# project2
+"extension method" is a type of method that allows developers to add new methods to existing classes without modifying the original class. Extension methods are a feature of some programming languages, including C# and Swift, and can be used to extend the functionality of existing classes with new methods that can be called like any other method on that class. For example, if you have a string class in your code and you want to add a new method to it that reverses the order of the characters in the string, you could use an extension method to do so.
